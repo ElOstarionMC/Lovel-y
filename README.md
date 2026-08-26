@@ -22,4 +22,3 @@ Currently studying a degree in Game Development and Production.
 # How to reach me?
   - Just email me at **nicolas.hernandez18@outlook.com**.
   - Or you can add me on discord: **ostarionok**.
-  - 
