@@ -1,5 +1,4 @@
-- 👋 Hi, I’m **ElOstarionMC** also know as Nicolas.
-- 👀 I’m interested in **coding** adn Minecraft.
-- 🌱 I’m currently learning **Python** and **Java**.
-- 💞️ I’m looking to collaborate on **Minecraft Plugins**.
-- 📫 How to reach me *nicolas.hernandez18@outlook.com*.
+# Hi, I’m *Nicolas* AKA ElOstarionMC.
+- Now coding Games and some plugins for minecraft.
+- Currently i know: **C#**, **Java** and **Unity**.
+- How to reach me? just email me at *nicolas.hernandez18@outlook.com*.
